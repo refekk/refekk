@@ -24,7 +24,7 @@
 <br><br>
 
 <!-- Widżet ostatnio słuchanej muzyki na Spotify -->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=zp8pv6ldcyzq0sa6rsixmozqd" alt="Spotify Recently Played">
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31wsibzxwapnyd3h6h5qod6mem5i&theme=nord&profile=off&username=off)
 
 <br><br>
 
